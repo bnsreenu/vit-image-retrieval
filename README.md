@@ -1,4 +1,7 @@
 # ViT Image Retrieval
+![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+![PyPI version](https://img.shields.io/pypi/v/vit-image-retrieval.svg?style=flat-square)
 
 A Python-based content-based image retrieval (CBIR) system using Vision Transformer (ViT) features and FAISS indexing. This application provides both a graphical user interface (GUI) and programmatic API for indexing and searching similar images.
 
