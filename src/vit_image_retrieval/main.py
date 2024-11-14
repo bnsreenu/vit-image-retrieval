@@ -22,8 +22,7 @@ def setup_platform_specific():
         # Remove potentially conflicting Qt platform plugin path
         os.environ.pop("QT_QPA_PLATFORM_PLUGIN_PATH", None)
         
-        # Additional Linux-specific setup can go here
-        # For example, setting the style to fusion which often works better on Linux
+
         if QApplication.instance() is None:
             app = QApplication(sys.argv)
             app.setStyle('Fusion')

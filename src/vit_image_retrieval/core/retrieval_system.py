@@ -1,5 +1,4 @@
-# retrieval_system.py
-# Add these lines at the very beginning of the file
+
 import os
 os.environ['KMP_DUPLICATE_LIB_OK']='TRUE'
 

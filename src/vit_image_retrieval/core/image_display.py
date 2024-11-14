@@ -1,4 +1,4 @@
-# image_display.py
+
 
 import os
 import platform
