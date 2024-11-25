@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="vit-image-retrieval",
-    version="1.0.0",
+    version="1.2.0",
     author="Dr. Sreenivas Bhattiprolu",
     author_email="pythonformicroscopists@google.com",
     description="A Vision Transformer based image retrieval system",

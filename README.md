@@ -8,7 +8,7 @@ A Python-based content-based image retrieval (CBIR) system using Vision Transfor
 ## Features
 
 - **Vision Transformer Features**: Utilizes ViT-B/16 model pre-trained on ImageNet for robust feature extraction
-- **Fast Similarity Search**: Implements FAISS indexing for efficient similarity search
+- **Fast Similarity Search**: Implements FAISS IVF indexing for efficient similarity search
 - **Cross-Platform Support**: Works on Windows, macOS, and Linux
 - **User-Friendly GUI**: 
   - Interactive interface for feature extraction and image search
